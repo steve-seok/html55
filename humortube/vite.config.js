@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  bace: '/html5
-  /', 
+  bace: '/html55/', 
   plugins: [react()],
 })
