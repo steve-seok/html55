@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  bace: '/html55/', 
+  base: '/html55/humortube/',  
   plugins: [react()],
 })
